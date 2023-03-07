@@ -1,0 +1,16 @@
+  LINUX
+
+1.  cd Application
+2.  cd ..
+3. pwd (present working directry)
+4. ls   (list)
+5. ls -a  (To check hidden files)
+6. ls -lrt (to check permission)
+7. mkdir foldername(make directory)
+8. touch filename(create a file)
+9. rmdir foldername (remove directory) only empty files
+10. rm -rf foldername/filename (delete file/folder)
+
+https://www.tutorialspoint.com/linux_terminal_online.php
+
+
